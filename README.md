@@ -1,4 +1,4 @@
-# Guess-Random-Number
+## About
 
 This is a random number guessing game. You can change the range for the random number generation to any range. 
 
